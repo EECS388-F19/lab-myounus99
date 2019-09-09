@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 print("Maryam")
 a = 12
 b = 5
