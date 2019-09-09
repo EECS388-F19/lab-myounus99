@@ -1,8 +1,11 @@
 #!/usr/bin/env python
+
+
 print("Maryam")
 a = 12
 b = 5
-print("%d \n %d", a, b)
-print("Sum= %d", (a+b))
+print(a)
+print(b)
+print("Sum= ", str(a+b))
 avg = 0.5 * (a + b)
-print("Average = %d", avg)
+print("Average = ", str(avg))
